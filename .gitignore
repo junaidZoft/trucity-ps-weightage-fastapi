@@ -9,6 +9,8 @@ ENV/
 env/
 .venv/
 
+.streamlit/secrets.toml
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 

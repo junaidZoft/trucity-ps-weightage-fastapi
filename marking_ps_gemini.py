@@ -81,7 +81,7 @@ Carefully examine the problem statement to determine which of the following elem
 
 **Contains Data**: Includes relevant quantitative or qualitative data supporting the existence of the problem.
 
-**References Included**: Cites credible sources or references that validate the problem.
+**References Included**: Cites any sources or references.
 
 **Location/Area Clear**: Clearly specifies the geographical location or specific area affected.
 
@@ -202,6 +202,9 @@ Pay special attention to:
 - "Demonstrates Very Good Understanding + Is Precise and To the Point + Info is Very Well-Structured and Easy to Understand"
 - "Has Very Good Grammar + Demonstrates Very Good Understanding + Is Precise and To the Point + Info is Very Well-Structured and Easy to Understand"
 
+**Exceptional case:**
+- "not Relevant content to the Idea"
+
 ### Y-AXIS CATEGORIES (Content Elements)
 
 **Single Elements:**
@@ -239,6 +242,9 @@ Pay special attention to:
 - "Contains Data + References Included + Location/Area Clear + Impact Described"
 - "Contains Data + References Included + Target Audience Clearly Stated + Impact Described"
 - "Contains Data + References Included + Location/Area Clear + Target Audience Clearly Stated + Impact Described"
+
+**Exceptional case:**
+- "not Relevant content to the Idea"
 
 ---
 
